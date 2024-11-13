@@ -5,7 +5,7 @@ Packet patriot is a simple attempt to showcase how a packet tracer works. Here I
 
 ## Prerequesites - Install any Java based IDE like Intellij or Netbeans.
 
-## Now I'll explain the instructions you have to follow to run code(it's a pretty easy code to run incase you are lazy! ):
+## Instructions
 
 1. Frstly, download all the files from firewall folder (would take only 4 minutes or less).
 2. Move these files to one single folder if you have not added already.
